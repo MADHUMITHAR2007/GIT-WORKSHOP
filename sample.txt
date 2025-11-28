@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 Madhumitha
+=======
+sample
+
+sample 2
+>>>>>>> editable
